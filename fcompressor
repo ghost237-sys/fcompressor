@@ -11,6 +11,3 @@ echo " Compressing complete"
 echo " "
 echo "Compressed File is in : "
 ls $path.tar.bz2
-
-
-- another one😂
